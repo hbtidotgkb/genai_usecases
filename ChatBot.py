@@ -1,7 +1,5 @@
 # Youtube Streamlit Playlist
 # https://www.youtube.com/watch?v=hff2tHUzxJM&list=PLc2rvfiptPSSpZ99EnJbH5LjTJ_nOoSWW
-%pip install langchain_openai
-
 import os
 import streamlit as st
 
