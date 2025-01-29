@@ -4,7 +4,7 @@
 import os
 import streamlit as st
 
-from dotenv import load_dotenv # langfuse or opik
+#from dotenv import load_dotenv # langfuse or opik
 from langchain_openai import OpenAI
 
 from langchain_core.prompts import (
